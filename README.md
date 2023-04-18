@@ -1,7 +1,7 @@
 # Customer Segmentation using K-Means Clustering
 This repository contains code for performing customer segmentation using the K-Means clustering algorithm on a mall customer dataset. The aim of the project is to better understand the different types of customers in the dataset and gain insights into their behavior and preferences.
 
-##Dataset
+## Dataset
 The dataset used in this project is the Mall_Customers.csv file, which can be found in the data directory. The dataset contains information on customers of a mall, including their gender, age, annual income, and spending score.
 
 ## Usage
